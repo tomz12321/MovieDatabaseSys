@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Actors()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Actors\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ a\ method\ to\ get\ Actor's\ name\ \n\ \n\ @param\ \ \n\ @return\ actors\ name\ a\ String\ \n
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment2.text=\n\ a\ method\ to\ get\ Actor's\ name\ \n\ \n\ @param\ \ newName\ an\ actors\ name\ as\ a\ String\n\ @return\ \n
+numComments=3

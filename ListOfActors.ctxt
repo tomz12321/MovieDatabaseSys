@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListOfActors()
+comment0.text=\ Default\ Constructors\ of\ class\ ListOfActors\n\ \n
+comment1.params=newActor
+comment1.target=void\ addActor(Actors)
+comment1.text=\n\ A\ method\ to\ add\ Actor\ to\ the\ list\n\ \n\ @param\ newActor\ an\ Object\ Actors\n\ @return\ \n
+comment2.params=
+comment2.target=java.util.ArrayList\ getListOfActors()
+comment2.text=\n\ A\ method\ to\ get\ list\ of\ actors\ \n\ \n\ @param\n\ @return\ a\ list\ of\ Actors\n
+comment3.params=
+comment3.target=int\ getNumbersOfActors()
+comment3.text=\n\ A\ method\ to\ return\ the\ size\ of\ actor\ list\n\ \n\ @param\n\ @return\ count\ number\ of\ Actors\n
+comment4.params=
+comment4.target=java.lang.String\ getStringOfListOfActors()
+comment4.text=\n\ A\ method\ to\ get\ list\ of\ actors\ \n\ \n\ @param\n\ @return\ listString\ a\ list\ of\ Actors\ as\ a\ String\n
+comment5.params=
+comment5.target=void\ listAll()
+comment5.text=\n\ List\ all\ the\ actors\ currently\ in\ the\ database\ on\ standard\ out.\n
+comment6.params=newActorlist
+comment6.target=void\ setListOfActors(java.util.ArrayList)
+comment6.text=\n\ A\ method\ to\ set\ list\ of\ actors\ \n\ \n\ @param\ ArrayList\ the\ newActorlist\n\ @return\ \n
+numComments=7
