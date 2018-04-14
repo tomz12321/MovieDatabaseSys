@@ -31,7 +31,7 @@ New a MovieSystem object from the class MovieSystem, then use the method: start(
 Step 1) System will load in database from the file myvideo.txt
 Step 2) Press 1 to search movie from the list
 Step 3) Press 2 or 3 to add/delete movie into the list.
-Step 3) Press 4 to input a rating, the system will display the list of movies which rating is higher than you input..
+Step 4) Press 4 to input a rating, the system will display the list of movies which rating is higher than you input..
 Step 5) Press 5 to edit the actors and rating of the movie you choose. (HD version)
 Step 6) Press 6 to exit the game
 
